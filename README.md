@@ -1,2 +1,3 @@
-# micro.favicon
-Add a custom favicon to a Micro.blog site.
+# Micro.Favicon
+
+Easily add a custom favicon to your Micro.blog site.
